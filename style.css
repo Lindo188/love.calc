@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url("/Roses.jpg");
+    background-size: cover;
+}
+
+#content-box {
+    background-color: transparent;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+
+#result {
+    font-size: 30px;
+    color: blue;
+    
+}
+
+#CrushName, #YourName{
+    
+        border-radius: 50px;
+        width: 250px;
+        height: 25px;
+} 
+    
+
+.h1{
+    color: red;
+    text-align: center;
+}
+
+#onclick{
+    color: black;
+    background-color: red;
+    width: 250px;
+    height: 25px;
+    border-radius: 50px;
+
+}
+    
